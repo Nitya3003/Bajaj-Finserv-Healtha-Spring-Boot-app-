@@ -37,6 +37,3 @@ Implements the flow described in the assignment:
 - Authorization header is set exactly to the provided `accessToken` (no `Bearer` prefix), as required.
 - The question URLs used to decide which problem you have are embedded in `WebhookClient#questionUrlFor(boolean odd)` for convenience.
 
-## License
-
-MIT
